@@ -1,12 +1,12 @@
 # Login
 一个简单的注册界面
-# ###简介
+# 简介
 这几天一直在写一个注册登陆界面,其中用到了下面的一些知识 分享给大家 
 
 
 #Segue 转场的使用
    
- ##转场前的准备
+ #转场前的准备
  - 建立一个转场 (这个就不用说了吧)
  - 如果我们需要使用segue转场,那么我们需要指定Segue
 ![segue](http://upload-images.jianshu.io/upload_images/2239937-95b7372426551972.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
